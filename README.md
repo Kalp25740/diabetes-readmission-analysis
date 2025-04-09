@@ -61,7 +61,7 @@ GROUP BY A1Cresult;
 
 - Designing normalized schemas upfront improves both speed and clarity of analysis
 - Long-format tables make aggregation and filtering much simpler
-- Readmission is strongly correlated with factors like high A1C, multiple medications, and specific discharge types
+- Readmission is strongly correlated with factors like race, initial admission type, discharge disposition, multiple medications, and specific discharge types
 
 ---
 
